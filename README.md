@@ -4,12 +4,6 @@
 
 Una aplicación simple y funcional para generar contraseñas aleatorias y seguras directamente en el navegador.
 
-## 🚀 Demo y Visibilidad
-
-Puedes ver y usar el generador directamente aquí (¡ideal para GitHub Pages!):
-
-➡️ **[ENLACE A LA DEMO DE GITHUB PAGES]**
-
 ## 🖼️ Preview (Vista Previa)
 
 <img width="571" height="535" alt="image" src="https://github.com/user-attachments/assets/12800075-0132-46c8-b16f-e99aa865c262" />
